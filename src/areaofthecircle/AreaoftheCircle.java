@@ -2,7 +2,7 @@
 /*
 This program was made by Dylan T
 On February 28th, 2018
-To display Wayne Gretzky and his number on a seperate line
+To display the area of the circle with a radius of 15cm
 */
 
 package areaofthecircle;
